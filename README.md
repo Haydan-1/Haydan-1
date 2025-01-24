@@ -1,3 +1,5 @@
+![logo](https://github.com/Haydan-1/Haydan-1/blob/main/Clean%20Modern%20Personal%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hello👋, I'm Haydan Patel</h1>
 <h3 align="center">A passionate developer from India skilled in Java, C#, Python, DBMS, MySQL, JavaScript, HTML, CSS, WordPress, and creative tools like Canva.</h3>
 
