@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Haydan Patel</h1>
 <h3 align="center">A passionate developer from India skilled in Java, C#, Python, DBMS, MySQL, JavaScript, HTML, CSS, WordPress, and creative tools like Canva.</h3>
 
-<img align="right" alt="Coding" width="400" src="<script src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c.js"></script>">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haydan-1&label=Profile%20views&color=0e75b6&style=flat" alt="haydan-1" /> </p>
 
