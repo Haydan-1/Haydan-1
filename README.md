@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **exploring advanced web development frameworks and UI/UX best practices.**
 
-- 💬 Ask me about **programming in C, C++, Python, Java, JavaScript, PHP, and creative tools like Canva, CapCut, and Figma.**
+- 💬 Ask me about **programming in C,Python, Java, JavaScript, and creative tools like Canva, CapCut, and Figma.**
 
 - 📫 How to reach me **[Whatsapp No. 7203997759 , Email:- patelhaydan0.1@gmail.com].**
 
